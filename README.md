@@ -31,4 +31,7 @@ Teröristlerin ölüm türlerine göre dağılımının incelenmesi
 Çatışma sırasında öldürülme, intihar gibi ölüm türlerinin analizi
 Sonuçlar
 Bu proje, küresel terörizm verilerinin çok boyutlu bir analizini sunarak, dünya genelinde ve Türkiye özelinde terör saldırılarının etkilerini ortaya koymaktadır. Proje çıktıları, terörist ölüm türleri, yaş grupları üzerindeki etkiler ve saldırı yöntemleri hakkında önemli bilgiler sağlamaktadır.
-[indiryeni](https://github.com/user-attachments/assets/52db51bd-5697-41b9-9a4c-498096f6d4b4)
+
+
+![indiryeni](https://github.com/user-attachments/assets/34254c9c-973b-43c4-876f-537faa5454a9)
+
